@@ -8,5 +8,6 @@
 2. Java 8
 3. Spring Framework
 4. Dependency Injection
-5. Spring MVC
-6. Spring Validation
+5. Spring JDBC
+6. Spring MVC
+7. Spring Validation
